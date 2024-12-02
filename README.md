@@ -54,6 +54,6 @@ Si vous souhaitez contribuer à l'amélioration de ce projet, n'hésitez pas à 
 
 # Auteurs
 
-- Mahamat Khalil Yacoub https://github.com/khalilmht4@gmail.com – Créateur du TP et soumission.
+- Mahamat Khalil Yacoub https://github.com/khalilmht – Créateur du TP et soumission.
 - Professeur Mohamed Youssfi – Enseignant Chercheur, ENSET MOHAMMEDIA, responsable du cours.
 
