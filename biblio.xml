@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblo SYSTEM "biblio.dtd">
+<biblio>
+    
+    <etudiant code="3L" nom="mahamat" prenom="khalil">
+        <livre id="03" titre="la peste"/>
+      
+        
+    </etudiant>
+    <etudiant code="3L" nom="mahamat" prenom="khalil">
+        <livre id="03" titre="la peste"/>
+    </etudiant>
+    
+    <etudiant code="4L" nom="mahamat" prenom="khalil">
+        <livre id="03" titre="la peste"/>
+    </etudiant>
+</biblio>

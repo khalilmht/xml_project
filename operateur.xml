@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE operateur SYSTEM "operateur.dtd">
+<operateur>
+    <client code="c1" nom="Mohammed">
+        <abonnement numero="111" dateAb="2020-11-11" type="FIX">
+            <facture num="321" dateFact="2022-11-11" montant="10" reglee="NON"/>
+            <facture num="322" dateFact="2022-11-12" montant="22323" reglee="OUI"/>
+            <facture num="324" dateFact="2024-12-11" montant="2323" reglee="NON"/>
+        </abonnement>
+        <abonnement numero="444" dateAb="2023-11-11" type="FO">
+            <facture num="23" dateFact="2023" montant="2323" reglee="NON"/>
+            <facture num="34" dateFact="2023" montant="4323" reglee="OUI"/>
+        </abonnement>
+    </client>
+    <client code="c2" nom="Imane">
+        <abonnement numero="113" dateAb="2023-11-12" type="FIX">
+            <facture num="321" dateFact="2022-11-11" montant="2333" reglee="NON"/>
+            <facture num="322" dateFact="2022-11-12" montant="22323" reglee="OUI"/>
+            <facture num="324" dateFact="2024-12-11" montant="2323" reglee="NON"/>
+        </abonnement>
+    </client>
+   
+</operateur>

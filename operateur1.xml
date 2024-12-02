@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<operateur xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/whiteman/Documents/operateur.xsd">
+    <client code="c1" nom="mahamat">
+        <abonnement numero="23" dateAb="2012-12-12" type="FIX">
+            <facture num="12" dateFact="2012-01-01" montant="20000" reglee="OUI"/>
+        </abonnement>
+    </client>
+    <client code="c2" nom="issa">
+        <abonnement numero="24" dateAb="2022-11-11" type="FIX">
+            <facture num="13" dateFact="2022-11-12" montant="2434" reglee="NON"/>
+        </abonnement>
+    </client>
+</operateur>
